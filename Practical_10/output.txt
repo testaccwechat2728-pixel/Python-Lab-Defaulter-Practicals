@@ -1,0 +1,14 @@
+Test 1: Valid inputs
+The result is: 5.0
+
+Test 2: Division by zero
+Error: Cannot divide by zero!
+
+Test 3: Invalid input types
+Error: Invalid input type. Please enter numbers only.
+
+Test 4: Value error
+Error: Invalid input value. Please enter a valid number.
+
+Test 5: Unexpected exception
+An unexpected error occurred: unsupported operand type(s) for /: 'int' and 'NoneType'

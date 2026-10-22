@@ -1,0 +1,16 @@
+After Writing and Reading from the Source File:
+Read content from source file:
+This is the original content.
+Adding some more text.
+
+After Appending to the Source File:
+Content after appending:
+This is the original content.
+Adding some more text.
+Appending new content.
+
+After Copying the Source File to the Destination File:
+File copied from source.txt to destination.txt. Content of the destination file:
+This is the original content.
+Adding some more text.
+Appending new content.
